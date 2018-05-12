@@ -1,0 +1,34 @@
+_repo: When-the-Sleepers-Woke_29322
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zagat, Arthur Leo
+    birthdate: 1896
+    deathdate: 1949
+    gutenberg_agent_id: '33759'
+    url: http://www.gutenberg.org/2009/agents/33759
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Leo_Zagat
+description: What would you do if you and a handful of other people were the only
+  lucky ones to have survived an apocalyptic nightmare -- and half of your fellow
+  survivors were your sworn enemies? That's the question at the center of Arthur Leo
+  Zagat's tightly plotted short story, ""When the Sleepers Woke."" It's a science
+  fiction gem that fans of the genre will surely appreciate.
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2009-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: When the Sleepers Woke
+url: http://www.gutenberg.org/ebooks/29322
